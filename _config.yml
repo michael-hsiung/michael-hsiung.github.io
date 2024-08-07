@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Michael Hsiung"
-  avatar           : "images/IMG_2623"
-  bio              : "PhD Student, EPSRC CDT, University of Liverpool"
+  avatar           : "images/IMG_2623.PNG"
+  bio              : "Graduate Student, Chongqing Medical University"
   location         : #"Liverpool, UK"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=MJnF0dYAAAAJ&sortby=pubdate"
+  googlescholar    : 
   email            : #"Wanrong.Yang@Liverpool.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
