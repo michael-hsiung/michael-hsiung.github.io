@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wanrong Yang (杨万荣)"
+title                    : "Michael Hisung"
 description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wanrong Yang"
-  avatar           : "images/me.jpg"
+  name             : "Michael Hsiung"
+  avatar           : "images/IMG_2623"
   bio              : "PhD Student, EPSRC CDT, University of Liverpool"
   location         : #"Liverpool, UK"
   employer         :
