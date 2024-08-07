@@ -92,6 +92,10 @@ Additionally, I am also interested in movies, music, digital and soccer. When I'
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
+
+# Others
+hi
+
 # 🚀 Research Supports and Cooperation
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
