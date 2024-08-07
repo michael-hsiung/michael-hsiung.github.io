@@ -32,15 +32,6 @@ Additionally, I am also interested in movies, music, digital and soccer. When I'
 - *2022.10*: &nbsp;🥳🥳 We obtained National 2rd prize in 7th National Biomedical Engineering Innovation and Design Competition.
 - *2021.08*: &nbsp;🎉🎉 We are heading to SUN YAT-SEN University to attend 6th National Biomedical Engineering Innovation and Design Competition.
 
-# 📝 Publications
-- **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjSnEfjmAYdAgimRT?e=xbZlxe)***
-- Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjGsLrXT4lyWJaP1i?e=h5HuOo)***
-- **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHXUJuJqApFume3K?e=XHT7Gv)***
-- Xiang, J., **Yang, W.**, Li, W. [Digital Signal Extraction Approach for Cardiotocography Image](https://www.sciencedirect.com/science/article/pii/S0169260722004709). Computer Methods and Programs in Biomedicine (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG_JGsNBFA-wDqZE?e=XxkuEF)***
-
-# 📚 Invention Patent
-- *2023*, Yihang, Zhou, **Wanrong Yang.**, et al. A cancer risk stratification method based on multi-modality radiomics, under review.
-
 # 🏆 Honors and Awards
 - *2023.09* **Excellent Undergraduate Thesis** of Chongqing City.
 - *2023.06* **Outstanding Graduates** of Chongqing City.
@@ -55,12 +46,6 @@ Additionally, I am also interested in movies, music, digital and soccer. When I'
 # 🎓 Educations
 - *2023.10 - 2027.09 (Expected)*, **PhD student**, fully funded by [EPSRC Centre for Doctoral Training (CDT)](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), University of Liverpool.
 - *2019.09 - 2023.09*, **Joint bachelor's education** in [SIAT, University of Chinese Academy of Sciences](https://www.siat.ac.cn/) and [CQUT](https://www.cqut.edu.cn/)
-
-# 📻 Invited Talks
-- *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
-- *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
-- *2023.12*, Multimodality radiomics in prostate cancer radiotherapy, CDT Data Science Seminar, University of Liverpool
-- *2023.10*, **Plenary lecture**, The 16th International Conference for Stereology and Image Analysis(ICSIA-2023), Xi'an, CHINA
 
 # 👨‍🏫 Academic services
 - *2024.02*, Teaching Assistant for *Applied Artificial Intelligence*, University of Liverpool
@@ -92,9 +77,6 @@ Additionally, I am also interested in movies, music, digital and soccer. When I'
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
-
-# Others
-hi
 
 # 🚀 Research Supports and Cooperation
 <div style="text-align: center;">
