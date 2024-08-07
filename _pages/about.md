@@ -24,8 +24,8 @@ Additionally, I am also interested in movies, music, digital and soccer. You can
 - *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
 - *2021.12*: &nbsp;⚽⚽ Our soccer team made history by reaching the knock-out round!
-- *2020.09*: &nbsq;✅✅ Passed College English Test Band 6 (CET6).
-- *2019.12*: &nbsq;✅✅ Passed College English Test Band 4 (CET4).
+- *2020.09*: &nbsp;✅✅ Passed College English Test Band 6 (CET6).
+- *2019.12*: &nbsp;✅✅ Passed College English Test Band 4 (CET4).
 - *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
 
 # 🏆 Honors and Awards
