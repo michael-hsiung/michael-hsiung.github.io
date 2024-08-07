@@ -13,6 +13,8 @@ redirect_from:
 
 # ✨ About me
 
+Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), Chongqing Medical University (CQMU), China.
+
 Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 Which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
 with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
