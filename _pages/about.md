@@ -13,7 +13,7 @@ redirect_from:
 
 # ✨ About me
 
-Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), Chongqing Medical University (CQMU), China.
+Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on deep learning.
 
 Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 Which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
