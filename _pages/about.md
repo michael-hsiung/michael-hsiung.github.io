@@ -27,9 +27,9 @@ Additionally, I am also interested in movies, music, digital and soccer. You can
 - *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
 
 # 🏆 Honors and Awards
-- *2022.09* **National 3rd Prize**, National Biomedical Engineering Innovation Design Competition.
-- *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus.
-- *2020* &nbsp;**Third-Class Scholarship** of Academic Excellence (Top 20%)
+- *2022.09* **National 3rd Prize**, National Biomedical Engineering Innovation Design Competition
+- *2021.11* **Third-Class Scholarship** of Academic Excellence (Top 20%)
+- *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
 
 # 🎓 Educations
 - *2024.09 - 2027.09 (Expected)*, **Master's student**, [CQMU](https://www.cqmu.edu.cn/)
