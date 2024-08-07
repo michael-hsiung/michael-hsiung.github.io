@@ -17,20 +17,14 @@ Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s studen
 Additionally, I am also interested in movies, music, digital and soccer. When I'm not immersed in my studies, you can find me exploring the latest movie, enjoying a good soccer game, discovering new music, or researching the latest digital products. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, living a colorful life and contributing to the world would be my life-long pursuit. **"Life is about creating yourself."-George Bernard Shaw**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**. And my main social media are [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow! 
 
 # 🔥 Latest News
-- *2024.06*: &nbsp;🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
-  - As part of recent additional funding offered to Tier 2 High Performance Computing(HPC) centres by EPSRC
-  - Supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Manhui Wang](https://scholar.google.com/citations?user=3dYIIPcAAAAJ&hl=zh-CN&oi=ao) (Head of Research IT Platforms, University of Liverpool)
-  - Duration: 21 weeks.
+- *2024.04*: &nbsp;🎉🎉 Successfully accepted by Chongqing Medical University!
 
 # 🍄 Past Journey
-- *2024.06*: &nbsp;🎉🎉 Heading to Newcastle for attending PyStan training with Jumping river.
-- *2023.12*: &nbsp;🥳🥳 Our new research abstract was accepted by 2024 Annual Congress of the European Society for Radiotherapy and Oncology.
-- *2023.10*: &nbsp;🎉🎉 Our latest research regarding multimodality radiomics is accepted by ICSIA 2023.
-- *2023.07*: &nbsp;🥳🥳 Having my PhD admission offer to the University of Liverpool!
-- *2023.06*: &nbsp;🎉🎉 Officially graduated from my bachelor study!
-- *2022.11*: &nbsp;🥳🥳 Having top honor awarded to undergraduate in CQUT.
-- *2022.10*: &nbsp;🥳🥳 We obtained National 2rd prize in 7th National Biomedical Engineering Innovation and Design Competition.
-- *2021.08*: &nbsp;🎉🎉 We are heading to SUN YAT-SEN University to attend 6th National Biomedical Engineering Innovation and Design Competition.
+- *2023.12*: &nbsp;✍🏻✍🏻 Taking the Nationwide Master's Program Unified Admissions Examination.
+- *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
+- *2022.08*: &nbsp;🥳🥳 We won the third prize in the National Student Biomedical Engineering Competition.
+- *2021.12*: &nbsp;⚽⚽ Our soccer team made history by reaching the knock-out round!
+- *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
 
 # 🏆 Honors and Awards
 - *2023.09* **Excellent Undergraduate Thesis** of Chongqing City.
