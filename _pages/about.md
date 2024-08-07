@@ -14,16 +14,7 @@ redirect_from:
 # ✨ About me
 
 Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on deep learning.
-
-Hi, this Wanrong. Welcome to my wonderland! Currently, I am a PhD student in computer science at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
-Which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
-with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
-[Chongqing University of Technology(CQUT)](https://www.cqut.edu.cn/). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
-I focused on medical signal processing and electronic nose. After that, I was supervised by [Dr.Yihang Zhou](https://scholar.google.com/citations?user=l_O7i1oAAAAJ&hl=en), [Dr.Haifeng Wang](https://scholar.google.com/citations?user=Ao4Q2uAAAAAJ&hl=zh-CN) and [Dr.Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=zh-CN) 
-to conduct MR-guided radiotherapy in prostate cancer and AI for fast MR imaging in SIAT. Now, I am supervised by [Dr.Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) and [Dr.Sven Schewe](https://www.liverpool.ac.uk/computer-science/staff/sven-schewe/), 
-cooperated with [Dr.Stephen Pasteris](https://scholar.google.com.hk/citations?user=mqtdKfkAAAAJ&hl=zh-CN&oi=ao) from [Alan Turing Institute](https://www.turing.ac.uk/) to explor new AI technology(Reinforcement learning) for cybersecurity. I am also interested in general **AI for Science**. 
-In a word, chasing for a real machine intelligence would be my life-long persuit.
-**"Those who can imagine anything, can create the impossible"-Alan Turing**. If you are interested in me, just drop me an email 📬 **Wanrong.Yang@liverpool.ac.uk**
+Additionally, I am also interested in movies, music, digital and soccer. When I'm not immersed in my studies, you can find me exploring the latest movie, enjoying a good soccer game, discovering new music, or researching the latest digital products. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, living a colorful life and contributing to the world would be my life-long pursuit. **"Life is about creating yourself."-George Bernard Shaw**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**. And my main social media are [Bilibili]() and [Xiaohongshu](), welcome to follow! 
 
 # 🔥 Latest News
 - *2024.06*: &nbsp;🎉 Successfully selected for N8 CIR Bede Summer Internship Programme 2024.
