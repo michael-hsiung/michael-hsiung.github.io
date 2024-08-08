@@ -45,7 +45,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [SMS-Activate](https://sms-activate.io/cn). Virtual number service for receiving SMS online.
   - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
 - **2.Boost your research**
-  - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero (better paper reading experience).
+  - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero. (better paper reading experience)
   - [Connected Papers](https://www.connectedpapers.com/), find and explore academic papers in a visual graph.
   - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
@@ -58,7 +58,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Visualizations of AI Models](https://poloclub.github.io/). Here you can find many visualizations of AI models more than just the ones listed above.
   - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), help you better understand Data Structures and Algorithms.
 - **4.Courses**
-  - [Practical ML](https://www.bilibili.com/video/BV13U4y1N7Uo/?spm_id_from=333.999.0.0&vd_source=200b9b34f0c9827fae4c6d657fb3462c), learn Practical Machine Learning with Dr. Mu Li.
+  - [Practical ML](https://www.bilibili.com/video/BV13U4y1N7Uo/?spm_id_from=333.999.0.0&vd_source=200b9b34f0c9827fae4c6d657fb3462c), learn Practical Machine Learning with Dr.Mu Li.
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
 
