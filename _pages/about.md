@@ -64,9 +64,9 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [My notes on ML](https://rare-radius-69f.notion.site/fc1c0f3c43e8415da0338a0d755cff06?pvs=4). Here are my notes on Machine Learning (updating), I hope you find them helpful!
 
 # 👋🏻 Follow me
-My main social media:
-🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0)
-🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690)
-Welcome to follow!
-&nbsp;
+My main social media:</br>
+🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0)</br>
+🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690)</br>
+Welcome to follow!</br>
+&nbsp;</br>
 &nbsp;
