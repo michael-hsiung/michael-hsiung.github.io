@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Latest News"
-    url: "/#-news"
+    url: "/#-latest-news"
 
   - title: "Past Journey"
-    url: "/#-news"
+    url: "/#-past-journey"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
