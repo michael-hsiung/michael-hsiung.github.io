@@ -33,8 +33,8 @@ I am particularly interested in artificial intelligence and electronic technolog
 - *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
 
 # 🎓 Educations
-- *2024.09 - 2027.09 (Expected)*, **Master's student**, [CQMU](https://www.cqmu.edu.cn/)
-- *2019.09 - 2023.09*, **Bachelor's education**, [CQUT](https://www.cqut.edu.cn/)
+- *2024.09 - 2027.06 (Expected)*, **Master's student**, [CQMU](https://www.cqmu.edu.cn/)
+- *2019.09 - 2023.06*, **Bachelor's education**, [CQUT](https://www.cqut.edu.cn/)
 
 # 🎨 Tools
 - **1.Make your Life much easier**
