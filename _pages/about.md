@@ -61,7 +61,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Practical ML](https://www.bilibili.com/video/BV13U4y1N7Uo/?spm_id_from=333.999.0.0&vd_source=200b9b34f0c9827fae4c6d657fb3462c), learn Practical Machine Learning with Dr.Mu Li.
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
-  - [My notes on ML](https://rare-radius-69f.notion.site/fc1c0f3c43e8415da0338a0d755cff06?pvs=4). Here are my notes on Machine Learning(updating), I hope you find them helpful!
+  - [My notes on ML](https://rare-radius-69f.notion.site/fc1c0f3c43e8415da0338a0d755cff06?pvs=4). Here are my notes on Machine Learning (updating), I hope you find them helpful!
 
 # 👋🏻 Follow me
 My main social media are 🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and 🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow!
