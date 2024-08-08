@@ -67,6 +67,7 @@ I am particularly interested in artificial intelligence and electronic technolog
 My main social media:<br>
 🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0)<br>
 🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690)<br>
+Mainly share interesting things about my life and some of my funny ideas.<br>
 Welcome to follow!<br>
-&nbsp;</br>
-&nbsp;
+<br>
+<br>
