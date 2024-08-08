@@ -43,7 +43,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Web Accelerator](https://ilink-a.com/), watch YouTube videos, use ChatGPT and so on.
   - [Encyclopedia](https://zh.wikipedia.org/), help you find relevant information more accurately.
   - [SMS-Activate](https://sms-activate.io/cn). Virtual number service for receiving SMS online.
-  - [Edit Your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
+  - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
 - **2.Boost your research**
   - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero (better paper reading experience).
   - [Connected Papers](https://www.connectedpapers.com/), find and explore academic papers in a visual graph.
@@ -62,7 +62,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
 
-  # 👋🏻 Follow me
-  My main social media are 🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and 🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow!
+# 👋🏻 Follow me
+My main social media are 🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and 🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow!
 
   
