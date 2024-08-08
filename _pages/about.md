@@ -14,7 +14,7 @@ redirect_from:
 # ✨ About me
 
 Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on deep learning.
-I am particularly interested in artificial intelligence and electronic technology. I am also interested in movies, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**. My main social media are [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow! 
+I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**. My main social media are [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow! 
 
 # 🔥 Latest News
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
@@ -61,5 +61,5 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
   - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
-&nbsp;
-&nbsp;
+
+# 
