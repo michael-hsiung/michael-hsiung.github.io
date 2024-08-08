@@ -12,9 +12,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About me
-
-Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on deep learning.
-I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**. My main social media are [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow! 
+Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on Deep Learning.
+I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**.
 
 # 🔥 Latest News
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
@@ -39,27 +38,31 @@ I am particularly interested in artificial intelligence and electronic technolog
 
 # 🎨 Tools
 - **1.Make your Life much easier**
-  - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), you can find various emojis and their unicode easily.
-  - [Free PDF tools](https://docsmall.com/pdf-split), Struggle with PDF? Use it!
+  - [Browser homepage](https://www.wetab.link/), make your own favorite browser homepage.
+  - [Accelerator](https://uu.163.com/), select Academic Resources Acceleration after download, you can access worldwide academic literature.
+  - [Web Accelerator](https://ilink-a.com/), watch YouTube videos, use ChatGPT and so on.
+  - [Encyclopedia](https://zh.wikipedia.org/), help you find relevant information more accurately.
+  - [SMS-Activate](https://sms-activate.io/cn). Virtual number service for receiving SMS online.
   - [Edit Your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), Cut your picture into pointed size.
-  - [Practice your English for exam](https://qwerty.kaiyi.cool/), worries about you IELTS test? It could be helpful for you.
-  - [Start computer science from 0](https://csdiy.wiki/en/), if you are interested in CS, but without any foundation, follow this route
 - **2.Boost your research**
-  - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), Easily find all Top AI conference deadline.
-  - [Crop PDF](https://croppdf.com/), Convert PDF Files.
-  - [Zotero plugins, Chinese](https://plugins.zotero-chinese.com/#/), Extend capability of you Zotero using various plugins(Better paper reading experience).
-  - [Z-Library](https://zh.zlibrary-global.se/), Find any book you need here, and please support the copyright of author if you are able to.
-  - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), Make a dynamic figure in your presentation must be fun.
-  - [Turn Video into GIF for your academic presentation, English](https://www.freeconvert.com/convert/video-to-gif). Same as last one
-  - [Pyradiomics](https://pyradiomics.readthedocs.io/en/latest/features.html#module-radiomics.ngtdm). Powerful Radiomics research tools
-  - [Find journals you want](https://www.scimagojr.com/journalrank.php). Easy to find suitable journals to submit your paper
-- **3.Reinforcement learning**
-  - [Spinning Up Deep RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html), A fast guideline to implement your Deep RL
-  - [Stable baseline3](https://stable-baselines3.readthedocs.io/en/master/), Fast Reliable Reinforcement Learning Implementations.
-- **4.Easy hardware programing**
-  - [Micropython, Chinese](http://micropython.com.cn/en/latet/reference/pyboard.py.html), Tutorials for hardware programing using micropython (Chinese version)
-  - [Micropython, English](https://docs.micropython.org/en/latest/), Tutorials for hardware programing using micropython (English version)
-  - [Pyboard, Chinese](http://vcc-gnd.com/PYB/html/pyboard/quickref.html), Learn how to use micropython on pyboard microchip (Chinese version)
-- [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
+  - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero (better paper reading experience).
+  - [Connected Papers](https://www.connectedpapers.com/), find and explore academic papers in a visual graph.
+  - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
+  - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
+  - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), make a dynamic figure in your presentation must be fun.
+- **3.Artificial Intelligence**
+  - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), easily find all Top AI conference deadline.
+  - [Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.40089&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false), play Neural Network on this web.
+  - [CNN Explainer](https://poloclub.github.io/cnn-explainer/), learn Convolutional Neural Network(CNN) in your browser.
+  - [LLM Visualization](https://bbycroft.net/llm), see how the Large Language Model(LLM) works.
+  - [Visualizations of AI Models](https://poloclub.github.io/). Here you can find many visualizations of AI models more than just the ones listed above.
+  - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), help you better understand Data Structures and Algorithms.
+- **4.Courses**
+  - [Practical ML](https://www.bilibili.com/video/BV13U4y1N7Uo/?spm_id_from=333.999.0.0&vd_source=200b9b34f0c9827fae4c6d657fb3462c), learn Practical Machine Learning with Dr. Mu Li.
+  - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
+  - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
 
-# 
+  # 👋🏻 Follow me
+  My main social media are 🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) and 🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690), welcome to follow!
+
+  
