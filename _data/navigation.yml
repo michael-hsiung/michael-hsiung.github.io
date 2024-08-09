@@ -3,8 +3,8 @@ main:
   - title: "About me"
     url: "/#about-me"
 
-  - title: "Latest News"
-    url: "/#-latest-news"
+  - title: "Latest New"
+    url: "/#-latest-new"
 
   - title: "Past Journey"
     url: "/#-past-journey"
@@ -12,8 +12,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Tools"
     url: "/#-tools"
