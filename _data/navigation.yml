@@ -3,8 +3,8 @@ main:
   - title: "About me"
     url: "/#about-me"
 
-  - title: "Latest New"
-    url: "/#-latest-new"
+  - title: "Latest News"
+    url: "/#-latest-news"
 
   - title: "Past Journey"
     url: "/#-past-journey"
