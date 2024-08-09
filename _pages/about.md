@@ -13,7 +13,7 @@ redirect_from:
 
 # ✨ About me
 Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on Deep Learning.
-I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬**michael_hsiung@163.com**.
+I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential to fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬 **michael_hsiung@163.com**.
 
 # 🔥 Latest News
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
@@ -65,9 +65,10 @@ I am particularly interested in artificial intelligence and electronic technolog
 
 # 👋🏻 Follow me
 My social media:<br>
-🅱️[Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0)<br>
-🍠[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690)<br>
-Mainly share interesting things about my life and some of my funny ideas.<br>
+🅱️ [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) for videos,<br>
+🍠 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690) for pictures,<br>
+mainly share interesting things about my life and some of my funny ideas.<br>
 Welcome to follow!<br>
+<br>
 <br>
 <br>
