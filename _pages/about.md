@@ -15,7 +15,7 @@ redirect_from:
 Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in biomedical engineering at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of Dr.Wang Li, I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by Dr.Tianqi Shan and Dr.Yuan Zhao to conduct research in photoacoustic imaging based on Deep Learning.
 I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential for fostering creativity and innovation. In short, learning and contributing to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬 **michael_hsiung@163.com**.
 
-# 🔥 Latest News
+# 🔥 Latest New
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
 
 # 🍄 Past Journey
@@ -32,7 +32,7 @@ I am particularly interested in artificial intelligence and electronic technolog
 - *2021.11* **Third-Class Scholarship** of Academic Excellence (Top 20%)
 - *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
 
-# 🎓 Educations
+# 🎓 Education
 - *2024.09 - 2027.06 (Expected)*, **Master's student**, [CQMU](https://www.cqmu.edu.cn/)
 - *2019.09 - 2023.06*, **Bachelor's education**, [CQUT](https://www.cqut.edu.cn/)
 
