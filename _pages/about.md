@@ -49,6 +49,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Connected Papers](https://www.connectedpapers.com/), find and explore academic papers in a visual graph.
   - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
+  - [Thesis Grammar](https://app.grammarly.com/), revise the grammar of your paper.
   - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), make a dynamic figure in your presentation must be fun.
 - **3.Artificial Intelligence**
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), easily find all Top AI conference deadline.
