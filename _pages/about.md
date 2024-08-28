@@ -59,7 +59,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Visualizations of AI Models](https://poloclub.github.io/). Here you can find many visualizations of AI models more than just the ones listed above.
   - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), help you better understand Data Structures and Algorithms.
 - **4.Courses**
-  - [Practical ML](https://www.bilibili.com/video/BV13U4y1N7Uo/?spm_id_from=333.999.0.0&vd_source=200b9b34f0c9827fae4c6d657fb3462c), learn Practical Machine Learning with Dr.Mu Li.
+  - [Learn AI](https://elementsofai.com/), a free online introduction to artificial intelligence for non-experts.
   - [Intro to DL](http://introtodeeplearning.com/), highly recommend MIT's introduction to Deep Learning.
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
