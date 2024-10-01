@@ -46,7 +46,8 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
 - **2.Boost your research**
   - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero. (better paper reading experience)
-  - [Connected Papers](https://www.connectedpapers.com/), find and explore academic papers in a visual graph.
+  - [Google Scholar](https://scholar.google.com/), most used academic search engine.
+  - [Academic websites](https://www.yanweb.top/), a page with a collection of academic websites, highly recommended!
   - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
   - [Thesis Grammar](https://app.grammarly.com/), revise the grammar of your paper.
@@ -55,7 +56,6 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), easily find all Top AI conference deadline.
   - [Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.40089&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false), play Neural Network on this web.
   - [CNN Explainer](https://poloclub.github.io/cnn-explainer/), learn Convolutional Neural Network (CNN) in your browser.
-  - [LLM Visualization](https://bbycroft.net/llm), see how the Large Language Model (LLM) works.
   - [Visualizations of AI Models](https://poloclub.github.io/). Here you can find many visualizations of AI models more than just the ones listed above.
   - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), help you better understand Data Structures and Algorithms.
 - **4.Courses**
@@ -63,6 +63,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Intro to DL](http://introtodeeplearning.com/), highly recommend MIT's introduction to Deep Learning.
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
+  - [Learn ROS2](https://book.guyuehome.com/). Let's learn Robot Operating System!
   - [My notes on ML](https://michael-hsiung.notion.site/fc1c0f3c43e8415da0338a0d755cff06?pvs=73). Here are my notes on Machine Learning (updating), I hope you find them helpful!
 
 # 👋🏻 Follow me
