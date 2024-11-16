@@ -42,7 +42,6 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Accelerator](https://uu.163.com/), select Academic Resources Acceleration after download, you can access worldwide academic literature.
   - [Web Accelerator](https://ilink-a.com/), watch YouTube videos, use ChatGPT and so on.
   - [Encyclopedia](https://zh.wikipedia.org/), help you find relevant information more accurately.
-  - [SMS-Activate](https://sms-activate.io/cn). Virtual number service for receiving SMS online.
   - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
 - **2.Boost your research**
   - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero. (better paper reading experience)
@@ -60,10 +59,10 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), help you better understand Data Structures and Algorithms.
 - **4.Courses**
   - [Learn AI](https://elementsofai.com/), a free online introduction to artificial intelligence for non-experts.
+  - [Learn ROS2](https://fishros.com/d2lros2foxy/#/). Let's learn Robot Operating System!
   - [Intro to DL](http://introtodeeplearning.com/), highly recommend MIT's introduction to Deep Learning.
   - [Dive into DL](https://zh-v2.d2l.ai/), learn Deep Learning on this web.
   - [Programming Language](https://www.tutorialspoint.com/index.htm). Tutorials for learning programming languages.
-  - [Learn ROS2](https://fishros.com/d2lros2foxy/#/). Let's learn Robot Operating System!
   - [My notes on ML](https://michael-hsiung.notion.site/fc1c0f3c43e8415da0338a0d755cff06?pvs=73). Here are my notes on Machine Learning (updating), I hope you find them helpful!
 
 # 👋🏻 Follow me
