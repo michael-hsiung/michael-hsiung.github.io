@@ -19,7 +19,6 @@ I am particularly interested in artificial intelligence and electronic technolog
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
 
 # 🍄 Past Journey
-- *2023.12*: &nbsp;✍🏻✍🏻 Taking the Nationwide Master's Program Unified Admissions Examination.
 - *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
 - *2021.12*: &nbsp;⚽⚽ Our soccer team made history by reaching the knock-out round!
