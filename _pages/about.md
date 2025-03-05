@@ -42,6 +42,7 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Web Accelerator](https://ilink-a.com/), watch YouTube videos, use ChatGPT and so on.
   - [Encyclopedia](https://zh.wikipedia.org/), help you find relevant information more accurately.
   - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
+  - [Background Removal](https://www.yanweb.top/), remove the cluttered backgrounds.
   - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), make a dynamic figure in your presentation must be fun.
 - **2.Boost your research**
   - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero. (better paper reading experience)
@@ -52,6 +53,8 @@ I am particularly interested in artificial intelligence and electronic technolog
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
   - [Thesis Grammar](https://app.grammarly.com/), revise the grammar of your paper.
 - **3.Artificial Intelligence**
+  - [Free AI model](https://github.com/features/copilot), join GitHub Education with an education email address in GitHub and you'll be able to use GitHub Copilot Pro for free!
+  - [Grok AI](https://grok.com/). Does free and powerful AI exist? Yes!
   - [Top AI Conference DDL](https://aideadlin.es/?sub=ML,NLP,KR,HCI), easily find all Top AI conference deadline.
   - [Neural Network](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.40089&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false), play Neural Network on this web.
   - [CNN Explainer](https://poloclub.github.io/cnn-explainer/), learn Convolutional Neural Network (CNN) in your browser.
