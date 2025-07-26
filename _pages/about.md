@@ -22,7 +22,7 @@ I am particularly interested in artificial intelligence and electronic technolog
 - *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
 - *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
-- *2021.12*: &nbsp;⚽⚽ Our soccer team made history by reaching the knock-out round!
+- *2021.12*: &nbsp;🎉🎉 Our soccer team made history by reaching the knock-out round!
 - *2020.09*: &nbsp;✅✅ Passed College English Test Band 6 (CET6).
 - *2019.12*: &nbsp;✅✅ Passed College English Test Band 4 (CET4).
 - *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
@@ -40,17 +40,17 @@ I am particularly interested in artificial intelligence and electronic technolog
 # 🎨 Tools
 - **1.Make your Life much easier**
   - [Browser homepage](https://www.wetab.link/), make your own favorite browser homepage.
-  - [Accelerator](https://uu.163.com/), select Academic Resources Acceleration after download, you can access worldwide academic literature.
-  - [Web Accelerator](https://ilink-a.com/), watch YouTube videos, use ChatGPT and so on.
+  - [The Internet unblocker](https://glados.rocks/console), Shh… let’s work some magic to access the open Internet.
   - [Encyclopedia](https://zh.wikipedia.org/), help you find relevant information more accurately.
-  - [Edit your picture](https://www.iloveimg.com/zh-cn/crop-image/crop-png), cut your picture into pointed size.
-  - [Background Removal](https://www.yanweb.top/), remove the cluttered backgrounds.
+  - [Edit your picture](https://www.iloveimg.com/), easily edit your pictures.
+  - [Edit your PDF](https://www.ilovepdf.com/), easily edit your PDFs.
   - [Turn Video into GIF for your academic presentation, Chinese](https://www.tutieshi.com/video/), make a dynamic figure in your presentation must be fun.
 - **2.Boost your research**
   - [Zotero, Chinese](https://zotero-chinese.com/), extend capability of Zotero. (better paper reading experience)
   - [Google Scholar](https://scholar.google.com/), most used academic search engine.
   - [Academic Websites](https://www.yanweb.top/), a page with a collection of academic websites, highly recommended!
   - [Literature Support Platform](https://www.ablesci.com/). Can't find the literature? Use it!
+  - [Scientific image and illustration](https://www.biorender.com/), create professional science images and illustrations in minutes.
   - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/). Struggle with English academic phrases? Check it out!
   - [Thesis Grammar](https://app.grammarly.com/), revise the grammar of your paper.
