@@ -16,9 +16,10 @@ Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s studen
 I am particularly interested in artificial intelligence and electronic technology. I also have hobbies in film, music, digital and soccer. I believe that a well-rounded life is essential for fostering creativity and innovation. In short, keep learning and making my own contribution to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬 **michael_hsiung@163.com**.
 
 # 🔥 Latest News
-- *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
+- *2025.07*: &nbsp;🥳🥳 We won the gold medal of the Chongqing Municipal Competition of China International College Students' Innovation Competition！
 
 # 🍄 Past Journey
+- *2024.07*: &nbsp;🎉🎉 Having my Master's admission offer to Chongqing Medical University!
 - *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
 - *2021.12*: &nbsp;⚽⚽ Our soccer team made history by reaching the knock-out round!
@@ -27,6 +28,7 @@ I am particularly interested in artificial intelligence and electronic technolog
 - *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
 
 # 🏆 Honors and Awards
+- *2025.07* **Municipal 1st Prize**, China International College Students' Innovation Competition
 - *2022.09* **National 3rd Prize**, National Biomedical Engineering Innovation Design Competition
 - *2021.11* **Third-Class Scholarship** of Academic Excellence (Top 20%)
 - *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
