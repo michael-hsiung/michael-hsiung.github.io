@@ -28,7 +28,7 @@ I am particularly interested in artificial intelligence and computer science. I 
 - *2019.07*: &nbsp;🎉🎉 Successfully accepted by Chongqing University of Technology!
 
 # 🏆 Honors and Awards
-- *2025.07* **Municipal 1st Prize**, China International College Students' Innovation Competition
+- *2025.07* **Municipal Gold Medal**, China International College Students' Innovation Competition
 - *2022.09* **National 3rd Prize**, National Biomedical Engineering Innovation Design Competition
 - *2021.11* **Third-Class Scholarship** of Academic Excellence (Top 20%)
 - *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
