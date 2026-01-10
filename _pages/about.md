@@ -51,9 +51,9 @@ I am interested in smart healthcare technologies, particularly the application o
   - [Academic Websites](https://www.yanweb.top), a page with a collection of academic websites, highly recommended!
   - [Literature Support Platform](https://www.ablesci.com). Can't find the literature? Use it!
   - [Scientific image and illustration](https://www.biorender.com), create professional science images and illustrations in minutes.
-  - [Journals](https://www.scimagojr.com/journalrank.php), easily find suitable journals to submit your paper.
   - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk). Struggle with English academic phrases? Check it out!
   - [Thesis Grammar](https://app.grammarly.com), revise the grammar of your paper.
+  - [LaTeX Editor](https://www.latexlive.com/home). Make writing mathematical formulas a breeze~
 - **3.Artificial Intelligence**
   - [Free AI model](https://github.com/features/copilot), join GitHub Education with an education email address in GitHub and you'll be able to use GitHub Copilot Pro for free!
   - [DeepSeek](https://deepseek.com). Lightweight, Chinese friendly AI.
