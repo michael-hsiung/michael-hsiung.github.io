@@ -40,7 +40,7 @@ author:
   github           : # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/xio.sy.1225"
+  instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
