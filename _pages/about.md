@@ -73,8 +73,8 @@ I am interested in smart healthcare technologies, particularly the application o
 My social media:<br>
 🅱️ [Bilibili](https://space.bilibili.com/497295199?spm_id_from=333.1007.0.0) <br>
 📕 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5f056d25000000000100727b?xhsshare=CopyLink&appuid=5f056d25000000000100727b&apptime=1722927832&share_id=2e86b12b99e14d298bc30fa5b4bc2690) <br>
-📷 [Instagram](https://www.instagram.com/xio.sy.1225/): xio.sy.1225 <br>
-📘 Facebook: Michael Hsiung <br>
+📷 [Instagram](https://www.instagram.com/xio.sy.1225/) <br>
+📘 [Facebook](https://www.facebook.com/profile.php?id=61578924366318) <br>
 <br>
 <br>
 <br>
