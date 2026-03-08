@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "michael_hsiung@163.com"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
