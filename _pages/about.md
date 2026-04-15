@@ -68,6 +68,7 @@ I am interested in smart healthcare technologies, particularly the application o
   - [Intro to DL](http://introtodeeplearning.com/), highly recommend MIT's introduction to Deep Learning.
   - [Dive into DL](https://d2l.ai/), learn Deep Learning on this web.
   - [Hands-on RL](https://hrl.boyuai.com/), turn games, robots, and rewards into your AI playground.
+  - [Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2025/). Let’s turn into robots and take over the world!!!
 
 # 👋🏻 Follow me
 My social media:<br>
