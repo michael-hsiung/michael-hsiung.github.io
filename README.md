@@ -1,4 +1,4 @@
 
 # Michael Hsiung
 
-👋🏻Hi, this is my personal website!
+👋🏻 Hi pal, this is my personal website!
