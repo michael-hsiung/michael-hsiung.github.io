@@ -12,13 +12,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About me
-Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in BME at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of [Dr.Li Wang](https://ys.cqut.edu.cn/info/1084/2538.htm), I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by [Dr.Shan Tianqi](https://orcid.org/0000-0003-2297-1636) to conduct research on intelligent robot-assisted photoacoustic imaging.
+Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s student in BME at the [State Key Laboratory of Ultrasound in Medicine and Engineering (SKL-UME)](https://skl-ume.cqmu.edu.cn/), [Chongqing Medical University (CQMU)](https://www.cqmu.edu.cn/), China. During my undergraduate studies, with the supervision of [Dr.Li](https://ys.cqut.edu.cn/info/1084/2538.htm), I focused on embedded system and medical artificial intelligence in [Chongqing University of Technology (CQUT)](https://www.cqut.edu.cn/). Now, I am supervised by [Dr.Shan](https://orcid.org/0000-0003-2297-1636) to conduct research on intelligent robot-assisted photoacoustic imaging.
 I am interested in smart healthcare technologies, particularly the application of artificial intelligence in medical imaging. I also have hobbies in football, music and film. I believe that a well-rounded life is essential for fostering creativity and innovation. In short, keep learning and making my own contribution to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬 **michael_hsiung@163.com**.
 
 # 🔥 Latest News
-- *2025.07*: &nbsp;🥳🥳 We won the gold medal of the Chongqing Municipal Competition of China International College Students' Innovation Competition！
+- *2026.07*: &nbsp;🌍🌍 Participated in a UNITAR programme in Geneva, Switzerland, and Copenhagen, Denmark.
 
 # 🍄 Past Journey
+- *2025.07*: &nbsp;🥳🥳 We won the gold medal of the Chongqing Municipal Competition of China International College Students' Innovation Competition！
 - *2024.07*: &nbsp;🎉🎉 Received my Master's admission offer to Chongqing Medical University!
 - *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
