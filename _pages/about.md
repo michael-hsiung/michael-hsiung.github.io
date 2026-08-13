@@ -31,7 +31,7 @@ I am interested in smart healthcare technologies, particularly the application o
 # 🏆 Honors and Awards
 - *2025.07* **Municipal Gold Medal**, China International College Students' Innovation Competition
 - *2022.09* **National 3rd Prize**, National Biomedical Engineering Innovation Design Competition
-- *2021.11* **Third-Class Scholarship** of Academic Excellence (Top 20%)
+- *2021.11* **Top-Class Scholarship** of Academic Excellence
 - *2020.06* **Outstanding Winner**, Three Good Students of the Year, Chongqing University of Technology Liangjiang Campus
 
 # 🎓 Education
