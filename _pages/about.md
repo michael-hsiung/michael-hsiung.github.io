@@ -21,7 +21,7 @@ I am interested in smart healthcare technologies, particularly the application o
 # 🍄 Past Journey
 - *2025.07*: &nbsp;🥳🥳 We won the gold medal of the Chongqing Municipal Competition of China International College Students' Innovation Competition！
 - *2024.07*: &nbsp;🎉🎉 Received my Master's admission offer to Chongqing Medical University!
-- *2023.06*: &nbsp;👨🏻‍🎓👨🏻‍🎓 Officially graduated from my bachelor study.
+- *2023.06*: &nbsp;🎓🎓 Officially graduated from my bachelor study.
 - *2022.08*: &nbsp;🥳🥳 We won the 3rd prize in the National Biomedical Engineering Innovation Design Competition.
 - *2021.12*: &nbsp;🎉🎉 Our soccer team made history by reaching the knock-out round! So proud of our great team!
 - *2020.09*: &nbsp;✅✅ Passed College English Test Band 6 (CET6).
