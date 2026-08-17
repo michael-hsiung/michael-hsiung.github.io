@@ -16,7 +16,7 @@ Hi, this is Michael. Welcome to my homepage! Currently, I am a master’s studen
 I am interested in smart healthcare technologies, particularly the application of artificial intelligence in medical imaging. I also have hobbies in football, music and film. I believe that a well-rounded life is essential for fostering creativity and innovation. In short, keep learning and making my own contribution to the world would be my life-long pursuit. **"Stay hungry, stay foolish."-Steve Jobs**. If you are interested in me, just drop me an email 📬 **michael_hsiung@163.com**.
 
 # 🔥 Latest News
-- *2026.07*: &nbsp;🌍🌍 Participated in an international programme organized by the United Nations Institute for Training and Research (UNITAR) in Geneva and Copenhagen.
+- *2026.07*: &nbsp;🌍🌍 Participated in a UNITAR international training programme in Geneva and Copenhagen. (Here's my [blog](https://michael-hsiung.notion.site/to-see-the-world-to-become-myself))
 
 # 🍄 Past Journey
 - *2025.07*: &nbsp;🥳🥳 We won the gold medal of the Chongqing Municipal Competition of China International College Students' Innovation Competition！
